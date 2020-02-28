@@ -1,0 +1,1 @@
+# bct-minio-mc-docker
