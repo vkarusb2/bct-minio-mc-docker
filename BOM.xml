@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bom version="1">
+    <components>
+        <component type="docker-image">
+            <name>bct-minio</name>
+            <version>RELEASE.2020-02-27T00-23-05Z</version>
+            <url>https://tbctdevops.jfrog.io/tbctdevops/webapp/#/artifacts/browse/tree/General/docker-local/bct-minio</url>
+        </component>
+    </components>
+</bom>

@@ -1,0 +1,6 @@
+*.tar.gz
+*.tgz
+temp.*
+Creds
+.vs
+.vs/*
